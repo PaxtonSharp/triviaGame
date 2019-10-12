@@ -1,0 +1,13 @@
+body {
+background-image: url("https://store-images.s-microsoft.com/image/apps.16830.69687203861936499.ac8bf93d-eb40-42c1-9b16-d386bf72c612.12d49530-4240-47d7-8253-795c6d566b96?mode=scale&q=90&h=720&w=1280&background=%23FFFFFF");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.choice {
+    border: 1px solid lightgray;
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    text-decoration-color: antiquewhite;
+}
